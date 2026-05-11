@@ -1,0 +1,10 @@
+
+Airway RNA-seq analysis summary
+
+Samples analyzed: 8
+Genes analyzed: 22369
+
+Significant genes:
+padj < 0.05 and |log2FC| > 1
+
+Total significant genes: 887
